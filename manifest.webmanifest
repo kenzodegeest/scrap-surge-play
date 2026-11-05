@@ -1,0 +1,1 @@
+{"name": "Scrap Surge", "short_name": "Scrap Surge", "start_url": "./", "display": "standalone", "orientation": "portrait", "background_color": "#02040b", "theme_color": "#02040b", "icons": [{"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}
